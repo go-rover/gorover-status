@@ -1,7 +1,7 @@
 url: https://app.gorover.xyz/api/health/managed
-status: down
-code: 404
-responseTime: 35
-lastUpdated: 2026-04-23T10:43:54.302Z
+status: up
+code: 200
+responseTime: 176
+lastUpdated: 2026-04-23T11:41:39.683Z
 startTime: 2026-04-23T10:43:54.214Z
 generator: Upptime <https://github.com/upptime/upptime>
