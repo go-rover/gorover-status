@@ -1,0 +1,57 @@
+:root {
+  --body-background-color: #060608;
+  --body-text-color: #fafafa;
+  --card-background-color: #0c0c0f;
+  --nav-background-color: rgba(6, 6, 8, 0.86);
+  --nav-border-bottom-color: #18181d;
+  --nav-current-border-bottom-color: #9945ff;
+  --card-border-color: #222228;
+  --down-border-left-color: #f43f5e;
+  --down-background-color: rgba(244, 63, 94, 0.12);
+  --degraded-border-left-color: #f59e0b;
+  --up-border-left-color: #14f195;
+  --tag-color: #060608;
+  --tag-up-background-color: #14f195;
+  --tag-down-background-color: #f43f5e;
+  --tag-degraded-background-color: #f59e0b;
+  --change-background-color: #111115;
+  --error-button-border-color: #2e2e36;
+  --error-button-background-color: #111115;
+  --error-button-color: #fafafa;
+  --submit-button-border-color: #9945ff;
+  --submit-button-background-color: #9945ff;
+  --submit-button-color: #ffffff;
+  --graph-opacity: 1;
+  --graph-filter: none;
+}
+
+body {
+  font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+  letter-spacing: -0.01em;
+  background-image:
+    linear-gradient(rgba(24, 24, 29, 0.55) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(24, 24, 29, 0.55) 1px, transparent 1px);
+  background-size: 64px 64px;
+}
+
+.logo {
+  border-radius: 8px;
+  box-shadow: 0 0 14px rgba(153, 69, 255, 0.35);
+}
+
+.description {
+  color: #71717a;
+}
+
+.card {
+  border-radius: 14px;
+  box-shadow: none;
+}
+
+.ok {
+  color: #14f195 !important;
+}
+
+.footer {
+  color: #71717a;
+}

@@ -7,8 +7,11 @@ assignees:
 status-website:
   cname: status.gorover.xyz
   name: GoRover Status
+  logoUrl: https://gorover.xyz/brand/gorover-logo-neon.png
+  favicon: https://gorover.xyz/brand/gorover-logo-neon.png
   introTitle: "GoRover System Status"
   introMessage: "Realtime status untuk Dashboard, Swarm, Radar, dan Managed."
+  themeUrl: https://raw.githubusercontent.com/go-rover/gorover/main/status/upptime/theme/gorover-status.css
   navbar:
     - title: Status
       href: /
