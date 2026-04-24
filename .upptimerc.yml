@@ -11,7 +11,7 @@ status-website:
   favicon: https://gorover.xyz/brand/gorover-logo-neon.png
   introTitle: "GoRover System Status"
   introMessage: "Realtime status untuk Dashboard, Swarm, Radar, dan Managed."
-  themeUrl: https://raw.githubusercontent.com/go-rover/gorover/main/status/upptime/theme/gorover-status.css
+  themeUrl: https://raw.githubusercontent.com/go-rover/gorover-status/main/theme/gorover-status.css
   navbar:
     - title: Status
       href: /
